@@ -1,0 +1,39 @@
+# Java Files & Packages
+*.class
+*.ear
+*.jar
+*.war
+
+# Eclipse Project Files
+.project
+.settings/
+.classpath
+.classpath/target
+.externalToolBuilders/
+
+# IntelliJ Project Files
+.idea/
+*.idea
+*.iml
+*.ipr
+*.iws
+
+# Maven Project Files
+target/
+bin/
+
+# (Needs to go away)
+dependency-reduced-pom.xml
+
+# Other files
+*.bak
+*.log
+*.swp
+tmp
+*.tmp
+.DS_Store
+.metadata
+presets/
+*.pydevproject
+.loadpath
+
